@@ -1,10 +1,10 @@
-🌟 INFORMATION THEORY AND CODING LAB
+# 🌟 INFORMATION THEORY AND CODING LAB
 Welcome to the Information Theory and Coding Lab repository! This project is dedicated to experiments, algorithms, and implementations in Information Theory and Coding — the backbone of data compression, error correction, and efficient communication systems in digital technology.
 
-👤 ABOUT ME
+# 👤 ABOUT ME
 I'm Naimur Rahman 👨‍💻, a student in the Department of Information and Communication Engineering at Pabna University of Science and Technology. This repository showcases my lab work and coding projects, covering both foundational algorithms and advanced topics in information theory. I hope to provide useful resources and examples to anyone eager to dive into this essential field of computer science and communication.
 
-📁 REPOSITORY CONTENTS
+# 📁 REPOSITORY CONTENTS
 The repository includes code implementations and explanations for:
 
 🔸 Random Walks and Stationary Distributions: Calculations and analyses of long-term behaviors in random walks on graphs, which are key in network analysis, ranking algorithms, and much more.
